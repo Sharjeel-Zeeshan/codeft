@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+.navbar{
+    background-color: #E5E4E2;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.image{
+    margin-left:100px;
+}
+.table-heading th {
+    background-color: #E5E4E2;
+    color: black; 
+    padding: 10px; 
+    text-align: center; 
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: bolder;
+  }
+  
+  .table-body{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .table-body tr:nth-child(even) {
+    background-color: #E5E4E2; 
+}
+
+.table-body tr:nth-child(odd) {
+    background-color: white;
+}
+
+  .bar{
+    width: 50px;
+    height: 10px;
+    background-color: #6541F9;
+    margin-left:100px;
+  }
+  table {
+    width: 82%;
+   margin-left: 100px;
+}
+
+.icon{
+    color: #6541F9;
+    font-weight: bold;
+}
